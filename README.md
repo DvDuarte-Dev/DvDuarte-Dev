@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Daniel Victor</h1>
+<h1 align="center">Olá , eu sou Daniel Victor</h1>
 
 <p align="center">
-💻 Aspirante a desenvolvedor • 🚀 Em constante evolução • 🌱 Sempre aprendendo
+ Aspirante a desenvolvedor •  Em constante evolução •  Sempre aprendendo
 </p>
 
 ---
@@ -27,16 +27,16 @@ Este perfil é meu espaço para compartilhar aprendizados, experimentos e minha 
 
 ## 🚀 Objetivos atuais
 
-- 📚 Aprofundar fundamentos de programação  
-- 💻 Construir projetos cada vez mais sólidos  
-- 🤝 Colaborar em projetos para iniciantes  
-- 🎯 Evoluir consistentemente como desenvolvedor  
+-  Aprofundar fundamentos de programação  
+-  Construir projetos cada vez mais sólidos  
+-  Colaborar em projetos para iniciantes  
+-  Evoluir consistentemente como desenvolvedor  
 
 ---
 
 ## ✨ Curiosidade
 
-> Descobri que amo programar quando menos esperava 😅
+> Descobri que amo programar quando menos esperava 
 
 ---
 
